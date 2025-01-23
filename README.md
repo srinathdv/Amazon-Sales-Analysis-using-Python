@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-using-Python
+# Amazon Sales Analysis using Python
 
 ## Introduction
 The "Amazon Sales Analysis" project is a Python-based data analysis endeavor aimed at exploring and understanding sales data obtained from Amazon. The project employs various Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, to analyze and visualize the dataset.
